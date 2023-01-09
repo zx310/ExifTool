@@ -1,0 +1,2 @@
+F:\VS_Workspace\repos\ExifTool\x64\Debug\ExifTool.exe
+F:\github\ExifTool\x64\Debug\ExifTool.exe
